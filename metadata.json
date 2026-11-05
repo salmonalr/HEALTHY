@@ -1,0 +1,6 @@
+{
+  "name": "Health MythBuster — Fact-Checking with Bobbly",
+  "description": "An editorial, science-grounded guide to debunking 85+ popular health, fitness, and medical myths with Bobbly your interactive blob companion, trivia quiz challenges, and clear scientific breakdowns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
